@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sumanth Kumar.
-- 👀 I’m a proffessional game developer.
-- 🌱 I develop html5 and cross platform games.
-- 💞️ I’m looking to collaborate on game development and other related development.
+- 👀 I’m a professional game/web developer.
+- 💞️ I’m looking to collaborate on game development and web related development.
 - 📫 Can reach me at sumanthkumar2k19@gmail.com
 
 <!---
