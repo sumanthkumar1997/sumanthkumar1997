@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumanth Kumar.
-- 👀 I’m a professional game/web developer.
-- 💞️ I’m looking to collaborate on game development and web related development.
+- 👀 I’m a professional web developer.
+- 💞️ I’m looking to collaborate on web related development.
 - 📫 Can reach me at sumanthkumar2k19@gmail.com
 
 <!---
